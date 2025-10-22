@@ -15,6 +15,9 @@
 body {
     background: linear-gradient(#40d3d7, #41cbd3, #2a6164);
     min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .card-component {
@@ -31,7 +34,6 @@ body {
     height: 25rem;
     text-align: center;
     padding: 20px;
-    margin: 60px auto;
     overflow: hidden;
 }
 
@@ -119,6 +121,5 @@ hr {
         width: 35rem;
         height: 28rem;
         padding: 50px;
-        margin: 60px auto;
     }
 }
