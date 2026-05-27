@@ -1,5 +1,9 @@
 # Frontend Mentor - Profile card component solution
+
 ![](./design/desktop-design.jpg)
+
+### visit site (<https://pioneercode1.github.io/profile-card-component-main/>)
+
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -23,10 +27,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### The challenge
 
 - Build out the project to the designs provided
-
-### Screenshot
-
-![](./screenshot.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
